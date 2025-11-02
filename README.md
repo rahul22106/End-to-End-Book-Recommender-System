@@ -41,7 +41,11 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+### Streamlit app Render implementation
 
+# 1 Login to Render with github id 
+# 2 Select web services 
+# 3 Select you End-to-End book repo 
 
 
 
